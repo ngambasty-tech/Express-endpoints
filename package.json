@@ -2,7 +2,7 @@
   "name": "environment",
   "version": "1.0.0",
   "description": "",
-  "main": "auth.js",
+  "main": "chat_server.js",
   "scripts": {
     "start": "nodemon chat_server.js"
   },
